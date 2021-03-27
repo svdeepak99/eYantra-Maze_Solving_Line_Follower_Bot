@@ -3,6 +3,8 @@ This repository contains the codes and videos of a Maze Solving Line Follower Ro
 
 **Playlist of the Project's Videos:** https://youtube.com/playlist?list=PLuR39FtkMtNWYtH3aQnq-jO5Gc9pRplao
 
+**Note: The Codes and Videos of each task can be found in the individual Task folders, in this root directory.**
+
 # Gallery
 
 ## Robot: ##
