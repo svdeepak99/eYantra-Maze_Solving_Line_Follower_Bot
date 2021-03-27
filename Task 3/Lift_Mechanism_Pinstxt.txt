@@ -1,0 +1,1 @@
+D2- ir sensor , D3- Bottom end switch , D4- Top end switch , D5- in1 , D6- in2 , D7- en1

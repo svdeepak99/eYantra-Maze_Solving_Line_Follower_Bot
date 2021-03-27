@@ -1,0 +1,1 @@
+avrdude -p m328p -P %1 -c arduino -b 57600 -v -D -U flash:w:%2:i

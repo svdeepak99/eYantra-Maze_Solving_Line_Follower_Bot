@@ -1,0 +1,5 @@
+﻿  NS_Task_1.cpp
+  NS_Task_1_Sandbox.cpp
+d:\users\nitish gudapati\documents\github\e-yantra\task 1\ns_project\ns_task_1_project_final\ns_task_1\ns_task_1_sandbox.cpp(216): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Generating Code...
+  NS_Task_1.vcxproj -> D:\Users\Nitish Gudapati\Documents\GitHub\e-yantra\Task 1\NS_Project\NS_Task_1_Project_Final\Debug\NS_Task_1.exe
