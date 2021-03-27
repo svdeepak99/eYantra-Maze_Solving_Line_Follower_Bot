@@ -1,5 +1,5 @@
 # eYantra: Maze Solving Line Follower Bot
-This repository contains the codes and videos of a Maze Solving Line Follower Robot we built as a part of the e-Yatra 2018 Competition conducted by IIT Bombay, along with the simulations done on V-Rep. The arena consists of elevated terrains and we also built a lift mehanism to enable the bot to climb up & down the elevated terrain autonomously.
+This repository contains the codes and videos of a Maze Solving Line Follower Robot we built as a part of the e-Yantra 2018 Competition conducted by IIT Bombay, along with the simulations done on V-Rep. The arena consists of elevated terrains and we also built a lift mehanism to enable the bot to climb up & down the elevated terrain autonomously.
 
 **Playlist of the Project's Videos:** https://youtube.com/playlist?list=PLuR39FtkMtNWYtH3aQnq-jO5Gc9pRplao
 
